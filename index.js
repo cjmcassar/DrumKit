@@ -37,7 +37,7 @@ for (var i = 0; i < numberOfDrumButtons; i++)
 
       case "k":
         var crash = new Audio("sounds/crash.mp3")
-        tom2.play();
+        crash.play();
         break;
 
       case "l":
