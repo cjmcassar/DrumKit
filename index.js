@@ -53,3 +53,7 @@ for (var i = 0; i < numberOfDrumButtons; i++)
   }
 
 }
+
+addEventListener("keydown", function(){
+  alert("Key was pressed bui!");
+});
